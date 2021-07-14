@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/seg-OhMySweeTreats/static/css/main.a617e044.chunk.css",
+    "main.js": "/seg-OhMySweeTreats/static/js/main.d2221895.chunk.js",
+    "main.js.map": "/seg-OhMySweeTreats/static/js/main.d2221895.chunk.js.map",
+    "runtime-main.js": "/seg-OhMySweeTreats/static/js/runtime-main.7484fb35.js",
+    "runtime-main.js.map": "/seg-OhMySweeTreats/static/js/runtime-main.7484fb35.js.map",
+    "static/js/2.89eb36ac.chunk.js": "/seg-OhMySweeTreats/static/js/2.89eb36ac.chunk.js",
+    "static/js/2.89eb36ac.chunk.js.map": "/seg-OhMySweeTreats/static/js/2.89eb36ac.chunk.js.map",
+    "static/js/3.4a0832db.chunk.js": "/seg-OhMySweeTreats/static/js/3.4a0832db.chunk.js",
+    "static/js/3.4a0832db.chunk.js.map": "/seg-OhMySweeTreats/static/js/3.4a0832db.chunk.js.map",
+    "index.html": "/seg-OhMySweeTreats/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/seg-OhMySweeTreats/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.89eb36ac.chunk.js.LICENSE.txt": "/seg-OhMySweeTreats/static/js/2.89eb36ac.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/seg-OhMySweeTreats/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7484fb35.js",
+    "static/js/2.89eb36ac.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.d2221895.chunk.js"
+  ]
+}
