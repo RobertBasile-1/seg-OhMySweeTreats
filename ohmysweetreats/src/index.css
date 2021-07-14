@@ -78,8 +78,8 @@ nav.nav-extended .nav-wrapper{
   */
   #desc{  
     
-      width: 65%;
-      max-width: 65%;
+      width: 55%;
+      max-width: 55%;
       text-align: left;
       font-size: 22px;
       align-items: left;
@@ -87,11 +87,20 @@ nav.nav-extended .nav-wrapper{
   }
 #smt{
   display: flex;
-  width: 80%;
-  max-width: 80%;
+  width: 70%;
+  max-width: 70%;
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%,-50%);
 }
 
 #imgTreats{
     width:  15%;
     max-width: 15%;
+}
+ 
+
+.help{
+  /* display: flex; */
 }

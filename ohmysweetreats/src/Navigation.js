@@ -15,7 +15,7 @@ class Navigation extends Component {
         return (
             <div>
 
-                <Navbar>
+ 
                     <Container fluid>
                         <nav className="nav-extended">
                             <div className="nav-wrapper">
@@ -30,7 +30,7 @@ class Navigation extends Component {
                             </div>
                         </nav>
                     </Container>
-                </Navbar>
+            
 
                 <ul className="sidenav" id="mobile-demo">
                     <li><a href="#">Home</a></li>
@@ -38,8 +38,9 @@ class Navigation extends Component {
                     <li><a href="#">Our Menu</a></li>
                     <li><a href="#">FAQ</a></li>
                 </ul>
-
+             
             </div>
+                 
         )
     }
 }
