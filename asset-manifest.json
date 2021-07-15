@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/seg-OhMySweeTreats/static/css/main.d4938dca.chunk.css",
-    "main.js": "/seg-OhMySweeTreats/static/js/main.a0875579.chunk.js",
-    "main.js.map": "/seg-OhMySweeTreats/static/js/main.a0875579.chunk.js.map",
+    "main.js": "/seg-OhMySweeTreats/static/js/main.5a5815f5.chunk.js",
+    "main.js.map": "/seg-OhMySweeTreats/static/js/main.5a5815f5.chunk.js.map",
     "runtime-main.js": "/seg-OhMySweeTreats/static/js/runtime-main.dc7fc3a7.js",
     "runtime-main.js.map": "/seg-OhMySweeTreats/static/js/runtime-main.dc7fc3a7.js.map",
-    "static/js/2.f2276d21.chunk.js": "/seg-OhMySweeTreats/static/js/2.f2276d21.chunk.js",
-    "static/js/2.f2276d21.chunk.js.map": "/seg-OhMySweeTreats/static/js/2.f2276d21.chunk.js.map",
+    "static/js/2.6710f378.chunk.js": "/seg-OhMySweeTreats/static/js/2.6710f378.chunk.js",
+    "static/js/2.6710f378.chunk.js.map": "/seg-OhMySweeTreats/static/js/2.6710f378.chunk.js.map",
     "index.html": "/seg-OhMySweeTreats/index.html",
     "static/css/main.d4938dca.chunk.css.map": "/seg-OhMySweeTreats/static/css/main.d4938dca.chunk.css.map",
-    "static/js/2.f2276d21.chunk.js.LICENSE.txt": "/seg-OhMySweeTreats/static/js/2.f2276d21.chunk.js.LICENSE.txt",
+    "static/js/2.6710f378.chunk.js.LICENSE.txt": "/seg-OhMySweeTreats/static/js/2.6710f378.chunk.js.LICENSE.txt",
     "static/media/letterbox1.d28f685b.png": "/seg-OhMySweeTreats/static/media/letterbox1.d28f685b.png",
     "static/media/smasheart.7df70e09.png": "/seg-OhMySweeTreats/static/media/smasheart.7df70e09.png",
     "static/media/treats.efe6a1b9.png": "/seg-OhMySweeTreats/static/media/treats.efe6a1b9.png",
@@ -17,8 +17,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.dc7fc3a7.js",
-    "static/js/2.f2276d21.chunk.js",
+    "static/js/2.6710f378.chunk.js",
     "static/css/main.d4938dca.chunk.css",
-    "static/js/main.a0875579.chunk.js"
+    "static/js/main.5a5815f5.chunk.js"
   ]
 }
