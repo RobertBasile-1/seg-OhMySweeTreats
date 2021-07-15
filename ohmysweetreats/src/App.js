@@ -14,10 +14,11 @@ function App() {
     <Router>
       <div>
  
-
+        
           <Navigation/>
+          
           <Switch>
-            <Route  exact path="/">
+            <Route path="/home">
               <Home></Home>
               <Variation></Variation>
               <Options></Options>
@@ -27,6 +28,7 @@ function App() {
             <Route path="/quote">
               <Quote></Quote>
             </Route>
+
           </Switch>
     </div>
     </Router>
