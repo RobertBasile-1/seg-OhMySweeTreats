@@ -25,7 +25,7 @@ class Navigation extends Component {
                                 <a href="#" data-target="mobile-demo" className="sidenav-trigger"><i className="material-icons">menu</i></a>
                                 <ul id="nav-mobile" className="right hide-on-med-and-down">
                                     <li><Link to="/home" >Home</Link></li>
-                                    <li><Link to="/quote">Request a quote</Link></li>
+                                    <li><Link to="/quote"   >Request a quote</Link></li>
                                     <li><Link to="/" >Our Menu</Link></li>
                                     <li><Link to="/" >FAQ</Link></li>
                                 </ul>
