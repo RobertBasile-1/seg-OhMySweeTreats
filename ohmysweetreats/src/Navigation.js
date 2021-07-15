@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import Navbar from 'react-bootstrap/Navbar'
 import Container from 'react-bootstrap/Container'
+import Quote from './other/Quote';
 
 
 class Navigation extends Component {
@@ -23,7 +24,7 @@ class Navigation extends Component {
                                 <a href="#" data-target="mobile-demo" className="sidenav-trigger"><i className="material-icons">menu</i></a>
                                 <ul id="nav-mobile" className="right hide-on-med-and-down">
                                     <li><a href="#">Home</a></li>
-                                    <li><a href="#">Request a quote</a></li>
+                                    <li><a href={Quote}>Request a quote</a></li>
                                     <li><a href="#">Our Menu</a></li>
                                     <li><a href="#">FAQ</a></li>
                                 </ul>
