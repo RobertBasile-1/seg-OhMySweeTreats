@@ -6,7 +6,7 @@ import Variation from "./Variation";
 import Options from "./Options";
 import Footer from "./Footer";
 
-import Quote from './Quote';
+import Quote from './other/Quote';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
 function App() {

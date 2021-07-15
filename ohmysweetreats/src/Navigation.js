@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import Navbar from 'react-bootstrap/Navbar'
 import Container from 'react-bootstrap/Container'
-import Quote from './Quote';
+import Quote from './other/Quote';
 import { Link } from "react-router-dom";
 
 
